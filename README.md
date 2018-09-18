@@ -18,3 +18,16 @@ https://stackoverflow.com/questions/1447715/incorporating-license-key-approach-f
 # Openlayers PDF example
 
 https://github.com/ll9/LicensingIdeas
+
+# WF DataGrid Paging
+
+https://stackoverflow.com/questions/2825771/how-can-we-do-pagination-in-datagridview-in-winform
+
+# WPF Datagrid Paging
+
+https://stackoverflow.com/questions/784726/how-can-i-paginate-a-wpf-datagrid
+
+
+# WPF DataGrid better Performance
+
+http://www.codewrecks.com/blog/index.php/2012/07/06/wpf-datagrid-poor-performance-on-sorting/
