@@ -13,3 +13,8 @@ https://www.codeproject.com/Questions/1188729/How-to-license-winform-application
 https://www.c-sharpcorner.com/forums/how-to-license-an-application-in-winform
 
 https://stackoverflow.com/questions/1447715/incorporating-license-key-approach-for-a-winforms-app
+
+
+# Openlayers PDF example
+
+https://github.com/ll9/LicensingIdeas
